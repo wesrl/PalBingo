@@ -1,7 +1,6 @@
-# Minecraft Bingo
+# Palworld Bingo
 
-https://minecraftbingo.com
-
+Site is WIP
 ## Contributions
 
 TBD
