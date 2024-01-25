@@ -8,14 +8,14 @@ var bingoList_v1 = [
 
 // Simple (0)
 [
-	{name: "(2-4) Different Fish"},
-	{name: "Grow a Tree in the Nether"},
-	{name: "(5-8) Colours of Terracotta", antisynergy: "BlockColour", infrequency: 4},
-	{name: "(1-5) Mushroom Stew"},
-	{name: "Shoot a Button with an Arrow"},
-	{name: "Book and Quill"},
-	{name: "(16-64) Flint"},
-	{name: "Cake"},
+	{name: "(2-4) Lamballs"},
+	{name: ""}, //Grow a Tree in the Nether
+	{name: " ", antisynergy: "BlockColour", infrequency: 4},//(5-8) Colours of Terracotta
+	{name: " "}, //(1-5) Mushroom Stew
+	{name: "Shoot a merchant with an Arrow"},
+	{name: "Make a sign"},
+	{name: "(5-10) Fuack"},
+	{name: ""}, //Cake
 	{name: "Pumpkin Pie"},
 	{name: "Fish a Treasure and Junk item"},
 	{name: "(10-64) Andesite", infrequency: 3},
