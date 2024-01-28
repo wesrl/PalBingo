@@ -8,15 +8,18 @@ Very Easy 25-30
 (2-5) Chikipi
 (2-5) Cattiva
 (2-5) Sparkit
+(2-5) Vixy
+200 cooked red berries 
 
 
 Easy 70
 Make a sign
-Cannot eat Veg or fruit
-Vegan Diet only
+Cannot eat Veg or fruit antisynergy:meat
+Vegan Diet only antisynergy:meat
 
 Medium 70
 Capture a Human
+Collect 2 ridable mounts 
 
 Hard 20
 Have 2 Bases  antisynergy:Bases
