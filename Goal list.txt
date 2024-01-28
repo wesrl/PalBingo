@@ -1,5 +1,4 @@
-Grilled Galeclaw
-Cake
+
 
 
 Very Easy 25-30
@@ -20,6 +19,9 @@ Vegan Diet only antisynergy:meat
 Medium 70
 Capture a Human
 Collect 2 ridable mounts 
+Grilled Galeclaw
+Cake
+
 
 Hard 20
 Have 2 Bases  antisynergy:Bases
