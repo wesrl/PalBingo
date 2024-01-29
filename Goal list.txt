@@ -1,6 +1,4 @@
 
-
-
 Very Easy 25-30
 (2-5) Lamballs
 (2-5) Fuack
@@ -16,7 +14,7 @@ Make a sign
 Cannot eat Veg or fruit antisynergy:meat
 Vegan Diet only antisynergy:meat
 Grilled Galeclaw
-Kill a boss antisynergy:Bosses
+Kill a Alpha pals antisynergy:AlphaPal
 Crossbow
 
 Medium 70
@@ -24,9 +22,12 @@ Capture a Human
 Collect 2 ridable mounts 
 Cake
 (2-5) Galeclaw
-(3-4) Kill Bosses antisynergy:Bosses
+(3-4) Kill Alpha pals antisynergy:AlphaPal
 Hard 20
 Have 2 Bases  antisynergy:Bases
+Give a Pal a gun
+Climb the highest mountain in the game
+
 Very hard 6-8
 Cannot craft Palshperes
 Without base antisynergy:Bases
