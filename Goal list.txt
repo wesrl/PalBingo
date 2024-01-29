@@ -8,21 +8,23 @@ Very Easy 25-30
 (2-5) Cattiva
 (2-5) Sparkit
 (2-5) Vixy
-200 cooked red berries 
-
+(100-200) cooked red berries 
+(50-100) Eggs
 
 Easy 70
 Make a sign
 Cannot eat Veg or fruit antisynergy:meat
 Vegan Diet only antisynergy:meat
+Grilled Galeclaw
+Kill a boss antisynergy:Bosses
+Crossbow
 
 Medium 70
 Capture a Human
 Collect 2 ridable mounts 
-Grilled Galeclaw
 Cake
-
-
+(2-5) Galeclaw
+(3-4) Kill Bosses antisynergy:Bosses
 Hard 20
 Have 2 Bases  antisynergy:Bases
 Very hard 6-8
