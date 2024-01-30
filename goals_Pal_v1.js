@@ -45,7 +45,7 @@ var bingoList_Pal_v1 = [
 // Easy (1)
 [
 	{name: "(2-4) Different Water types"},
-	{name: "Grow a Tree in the Nether"},
+	{name: "Start a plantation"},
 	{name: "(4-7) Colours of Terracotta", antisynergy: "TerracottaColour", infrequency: 4},
 	{name: "(1-5) Mushroom Stew"},
 	{name: "Shoot a Button with an Arrow"},
