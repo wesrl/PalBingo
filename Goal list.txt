@@ -1,5 +1,6 @@
-
+Writing Challenges
 Very Easy 25-30
+
 (2-5) Lamballs
 (2-5) Fuack
 (2-5) Chikipi
@@ -7,7 +8,10 @@ Very Easy 25-30
 (2-5) Sparkit
 (2-5) Vixy
 (100-200) cooked red berries 
-(50-100) Eggs
+(25) Eggs antisynergy:"eggs"
+(200-300) Wood
+(200-300) Stone
+(5-10) Lifmunk Effigies antisynergy:Effigies 
 
 Easy 70
 Make a sign
@@ -16,13 +20,16 @@ Vegan Diet only antisynergy:meat
 Grilled Galeclaw
 Kill a Alpha pals antisynergy:AlphaPal
 Crossbow
-
+Collect all Sphere types
+(20-30) Lifmunk Effigies antisynergy:Effigies 
+(50-100) Eggs antisynergy:"eggs"
 Medium 70
 Capture a Human
 Collect 2 ridable mounts 
 Cake
 (2-5) Galeclaw
 (3-4) Kill Alpha pals antisynergy:AlphaPal
+(40-50) Lifmunk Effigies antisynergy:Effigies 
 Hard 20
 Have 2 Bases  antisynergy:Bases
 Give a Pal a gun
