@@ -23,16 +23,20 @@ Crossbow
 Collect all Sphere types
 (20-30) Lifmunk Effigies antisynergy:Effigies 
 (50-100) Eggs antisynergy:"eggs"
-Hatch an egg
+Catch something in a hanging trap
+Craft Normal Parachute antisynergy: "Parachute"
+Cannot fly using parachute antisynergy: "Parachute"
+world has to be normal dif antisynergy: "dif"
+Open 5 chests
 
 Medium 70
-Breed 5 different Pals
 Capture a Human
 Collect 2 ridable mounts 
 Cake
 (2-5) Galeclaw
 (3-4) Kill Alpha pals antisynergy:AlphaPal
 (40-50) Lifmunk Effigies antisynergy:Effigies 
+
 Hard 20
 Have 2 Bases  antisynergy:Bases
 Give a Pal a gun
@@ -41,3 +45,5 @@ Climb the highest mountain in the game
 Very hard 6-8
 Cannot craft Palshperes
 Without base antisynergy:Bases
+Kill Mamorest with only club (ProjketLily)
+Reach Max Crime Status and spawn level 50 Guards before dying (ProjketLily)
