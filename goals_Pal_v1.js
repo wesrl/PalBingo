@@ -29,13 +29,13 @@ var bingoList_Pal_v1 = [
 	{name: "Feathered Hair Band"},
 	{name: "Build a (2-4)x(2-4)x(2-4) house", tooltiptext: "You can choose what shall be the width/length/height.", tooltipimg: "Goal Tooltip Images/LeafCube.jpg"},
 	{name: "Level (10-20)"},
-	//{name: "(5-25) Poppies & (5-25) Dandelions"},
+	{name: "(5-25) Wool & (5-25) Leather"},
 	//{name: "Build a glass cube and fill the inner with lava"},
 	{name: "Never Sleep", antisynergy: "Sleep"},
-	{name: "(10-30) Cacti"},
-	{name: "(1-3) TNT"},
-	{name: "(5-15) Raw Fish"},
-
+	{name: "(10-30) Wool"},
+	{name: "(1-3) Gunpoweder"},
+	{name: "(5-15) Pal Fluid"},
+	{name:"Find the location ine the photo", tooltiptext:"Find this location", tooltipimg: "Goal Tooltip Images/Location1"}
 
 
 
