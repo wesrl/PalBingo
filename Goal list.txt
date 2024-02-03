@@ -28,6 +28,7 @@ Craft Normal Parachute antisynergy: "Parachute"
 Cannot fly using parachute antisynergy: "Parachute"
 world has to be normal dif antisynergy: "dif"
 Open 5 chests
+Pals can only build and craft
 
 Medium 70
 Capture a Human
@@ -36,7 +37,7 @@ Cake
 (2-5) Galeclaw
 (3-4) Kill Alpha pals antisynergy:AlphaPal
 (40-50) Lifmunk Effigies antisynergy:Effigies 
-
+level (4-8) base
 Hard 20
 Have 2 Bases  antisynergy:Bases
 Give a Pal a gun
