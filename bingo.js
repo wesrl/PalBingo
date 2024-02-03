@@ -37,12 +37,20 @@ var hoveredSquare;
 //
 // The name is used for display purposes only.
 var VERSIONS = [
+<<<<<<< HEAD
 	//{ id:"1", name:"v1 [1.12.2]",		goals: bingoList_v1, generator: generator_v1, stable: true },
 	//{ id:"2", name:"v2 [1.12.2]",		goals: bingoList_v2, generator: generator_v2, stable: true },
 	//{ id:"3", name:"v3 [1.13.2]", 		goals: bingoList_v3, generator: generator_v2, stable: true },
 	//{ id:"4", name:"v4 [1.16.5]", 		goals: bingoList_v4, generator: generator_v3, stable: true },
 	//{ id:"dev", name:"dev [1.16.5]", 	goals: bingoList_v5, generator: generator_v3, stable: false }, // Dev version
 	{id:"1", name:"v1 [Palworld]",		goals: bingoList_Pal_v1, generator: generator_v2, stable: false},
+=======
+	{ id:"1", name:"v1 [Palworld]",		goals: bingoList_Pal_v1, generator: generator_v2, stable: true },
+	{ id:"2", name:"v2 [1.12.2]",		goals: bingoList_v2, generator: generator_v2, stable: true },
+	{ id:"3", name:"v3 [1.13.2]", 		goals: bingoList_v3, generator: generator_v2, stable: true },
+	{ id:"4", name:"v4 [1.16.5]", 		goals: bingoList_v4, generator: generator_v3, stable: true },
+	{ id:"dev", name:"dev [1.16.5]", 	goals: bingoList_v5, generator: generator_v3, stable: false }, // Dev version
+>>>>>>> 7b66687fc1caa50af2491a1b9c1d0d7c2ab0d715
 ];
 
 // This is the newest stable version that users not specifying a version will get
