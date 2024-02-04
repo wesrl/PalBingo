@@ -9,7 +9,7 @@ var bingoList_Pal_v1 = [
 	{name: "(2-4) Lamballs"},
 	{name: "(200-300) Wood"}, //Grow a Tree in the Nether
 	{name: "(5-10) Lifmunk Effigies", antisynergy:"Effigies"}, //(5-8) Colours of Terracotta
-	{name: "(25) Eggs", antisynergy:"eggs"}, //(1-5) Mushroom Stew
+	{name: "(24-25) Eggs", antisynergy:"eggs"}, //(1-5) Mushroom Stew
 	{name: "Shoot a merchant with an Arrow"},
 	{name: "Make the Bowler Hat"}, //Make a sign
 	{name: "(5-10) Fuack"},
@@ -35,7 +35,7 @@ var bingoList_Pal_v1 = [
 	{name: "(10-30) Wool"},
 	{name: "(1-3) Gunpoweder"},
 	{name: "(5-15) Pal Fluid"},
-	{name:"Find the location ine the photo", tooltiptext:"Find this location", tooltipimg: "Goal Tooltip Images/Location1"}
+	{name:"Find the location ine the photo", tooltiptext:"Find this location", tooltipimg: "Goal Tooltip Images/Location1.png"}
 
 
 
