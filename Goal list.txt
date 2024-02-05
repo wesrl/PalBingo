@@ -39,6 +39,7 @@ Cake
 (3-4) Kill Alpha pals antisynergy:AlphaPal
 (40-50) Lifmunk Effigies antisynergy:Effigies 
 level (4-8) base
+
 Hard 20
 Have 2 Bases  antisynergy:Bases
 Give a Pal a gun
