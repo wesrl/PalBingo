@@ -85,7 +85,7 @@ $(document).click(function(event) {
 $(document).ready(function()
 {
 	// Set the background to a random image set to 4 when more Bg change number
-	document.body.className += "bg" + (Math.floor(Math.random() * 4) + 1);
+	document.body.className += "bg" + (Math.floor(Math.random() * 10) + 1);
 
 	// On clicking a goal square
 	const bingoSquares = $("#bingo td");

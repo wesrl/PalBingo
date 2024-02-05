@@ -29,6 +29,7 @@ Cannot fly using parachute antisynergy: "Parachute"
 world has to be normal dif antisynergy: "dif"
 Open 5 chests
 Pals can only build and craft
+Rescue a Pal! (Littlebear)
 
 Medium 70
 Capture a Human
