@@ -38,7 +38,6 @@ var bingoList_Pal_v1 = [
 
 
 
-
 ],
 
 // Easy (1)
@@ -66,8 +65,8 @@ var bingoList_Pal_v1 = [
 	{name: "Rescue a Pal!",tooltiptext: "Save a Pal from a Outposts"},
 	{name: "Level (10-15)", antisynergy: "Level", infrequency: 4},
 	{name:"Find the location ine the photo", tooltiptext:"Find this location", tooltipimg: "Goal Tooltip Images/location2.jpg"},
-	
 	{name: "(3-5) Different Edible Items",antisynergy: "Edible Items"},
+	
 	// {name: "Create a Snow Golem"},
 	// {name: "(5-15) Note Blocks", antisynergy: "NoteBlocks", infrequency: 2},
 	// {name: "(5-15) Ink Sacks", antisynergy: "InkSacks", infrequency: 2},
@@ -135,12 +134,12 @@ var bingoList_Pal_v1 = [
 	{name:"Finish by jumping form height limit", tooltiptext: "Build up height limit, and then jump from top to bottom at the end of the game", tooltipimg: "Goal Tooltip Images/FinishTopToBottom.jpg", antisynergy: "Finish"},
 	{name: "Capture a Human"},
 	{name: "(3-5) Different metal Items"},
-	{name: "Collect 2 ridable mounts"},
+	{name: "Collect 2 ridable mounts", tooltiptext:"Need to be rideable as in have the saddle as well"},
 	{name: "(3-5) Cake", antisynergy:"cake"},
 	{name: "(2-5) Galeclaw"},
 	{name: "(3-4) Kill Alpha pals", antisynergy:"AlphaPal"},
 	{name: "(40-50) Lifmunk Effigies", antisynergy:"Effigies"},
-	{name: "level (4-8) base", antisynergy:"Bases"},
+	{name: "level (8-10) base", antisynergy:"Bases"},
 	{name: "(6-8) Different Edible Items",antisynergy: "Edible Items"},
 	
 	{name: "Cookie"},
@@ -211,10 +210,11 @@ var bingoList_Pal_v1 = [
 
 // Hard (3)
 [
-	{name: "Grass Block", tooltiptext: "If you don't have Silk Touch I know a guy who might pick one up for you...", tooltipimg: "Goal Tooltip Images/GrassBlock.jpg"},
-	{name: "Create an Enchantment requiring level 10+"},
-	{name: "(10-32) Mycelium"},
-	{name: "Milk a Mooshroom"},
+	{name: "Cannot craft Palshperes (no Pals crafting them either)", tooltiptext: "There might be otherways to get them"},
+	{name: "craft a rare outfit"},
+	{name: "Give a Pal a gun"},
+	{name: "Climb the highest mountain in the game"},
+	
 	{name: "Shear a Mooshroom"},
 	{name: "Sea Lantern"},
 	{name: "Sponge", tooltiptext: "DRY Sponge, not a wet one", tooltipimg: "Goal Tooltip Images/Sponge.jpg"},
@@ -246,21 +246,22 @@ var bingoList_Pal_v1 = [
 
 // Very Hard (4)
 [
-	{name: "(4-6) Different Ores (Silk Touch)", tooltiptext: "Coal, Diamond, Emerald, Gold, Iron, Lapis Lazuli, Nether Quatz and Redstone ores are your choices", tooltipimg: "Goal Tooltip Images/Ores.jpg"},
-	{name: "(7-9) Different Potions", tooltiptext: "Splash variants count! Even Lingering if you want to get crazy", tooltipimg: "Goal Tooltip Images/Potions.jpg"},
-	{name: "Cure a Zombie Villager"},
-	{name: "Every type of Chestplate", tooltiptext: "Leather, Gold, Iron, Diamond and yes, even Chainmail", tooltipimg: "Goal Tooltip Images/chainmail chest.jpg"},
-	{name: "Nether Star"},
-	{name: "Dragon Egg"},
-	{name: "Any mob head OTHER than a Wither Skeleton's", tooltiptext: "Dragon, Skeleton, Zombie or a Creeper Head. Wither Skeleton skulls do NOT count"},
-	{name: "(5-10) Popped Chorus Fruit"},
-	{name: "Every colour of Dye"},
-	{name: "Level (38-50)", antisynergy: "Level", infrequency: 4},
-	{name: "Fill a Double Chest with 3456 items"},
-	{name: "(16-32) Tipped Arrows"},
-	{name: "Place 1 of each Mineral block on top of each other", tooltiptext: "Coal, Iron, Gold, Diamond, Redstone, Lapis, Emerald and Quartz blocks", tooltipimg: "Goal Tooltip Images/MineralBlocks.jpg"},
-	{name: "Save yourself with a Totem of Undying"},
-	{name: "Sleep in a Woodland Mansion"},
+	{name: "WIP challenges"},
+	// {name: "(4-6) Different Ores (Silk Touch)", tooltiptext: "Coal, Diamond, Emerald, Gold, Iron, Lapis Lazuli, Nether Quatz and Redstone ores are your choices", tooltipimg: "Goal Tooltip Images/Ores.jpg"},
+	// {name: "(7-9) Different Potions", tooltiptext: "Splash variants count! Even Lingering if you want to get crazy", tooltipimg: "Goal Tooltip Images/Potions.jpg"},
+	// {name: "Cure a Zombie Villager"},
+	// {name: "Every type of Chestplate", tooltiptext: "Leather, Gold, Iron, Diamond and yes, even Chainmail", tooltipimg: "Goal Tooltip Images/chainmail chest.jpg"},
+	// {name: "Nether Star"},
+	// {name: "Dragon Egg"},
+	// {name: "Any mob head OTHER than a Wither Skeleton's", tooltiptext: "Dragon, Skeleton, Zombie or a Creeper Head. Wither Skeleton skulls do NOT count"},
+	// {name: "(5-10) Popped Chorus Fruit"},
+	// {name: "Every colour of Dye"},
+	// {name: "Level (38-50)", antisynergy: "Level", infrequency: 4},
+	// {name: "Fill a Double Chest with 3456 items"},
+	// {name: "(16-32) Tipped Arrows"},
+	// {name: "Place 1 of each Mineral block on top of each other", tooltiptext: "Coal, Iron, Gold, Diamond, Redstone, Lapis, Emerald and Quartz blocks", tooltipimg: "Goal Tooltip Images/MineralBlocks.jpg"},
+	// {name: "Save yourself with a Totem of Undying"},
+	// {name: "Sleep in a Woodland Mansion"},
 ]
 
 ];
