@@ -34,6 +34,7 @@ Butcher pals
 
 Medium 70
 Capture a Human
+Use only humans and human like Pals to do labor at a base
 Collect 2 ridable mounts 
 Cake
 (2-5) Galeclaw
@@ -42,6 +43,7 @@ Cake
 level (4-8) base
 Trap human in trap
 to end game butcher all Pals in party and box (if you have a box) infrequent)
+
 
 Hard 20
 Have 2 Bases  antisynergy:Bases
