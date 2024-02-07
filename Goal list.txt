@@ -30,6 +30,7 @@ world has to be normal dif antisynergy: "dif"
 Open 5 chests
 Pals can only build and craft
 Rescue a Pal! (Littlebear)
+Butcher pals
 
 Medium 70
 Capture a Human
@@ -39,11 +40,14 @@ Cake
 (3-4) Kill Alpha pals antisynergy:AlphaPal
 (40-50) Lifmunk Effigies antisynergy:Effigies 
 level (4-8) base
+Trap human in trap
+to end game butcher all Pals in party and box (if you have a box) infrequent)
 
 Hard 20
 Have 2 Bases  antisynergy:Bases
 Give a Pal a gun
 Climb the highest mountain in the game
+Kill black marceter
 
 Very hard 6-8
 Cannot craft Palshperes
