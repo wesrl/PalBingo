@@ -41,7 +41,7 @@ Cake
 (40-50) Lifmunk Effigies antisynergy:Effigies 
 level (4-8) base
 Trap human in trap
-to end game butcher all Pals in party and box (if you have a box) infrequent)
+to end game butcher all Pals in party and box (if you have a box) (infrequent)
 
 Hard 20
 Have 2 Bases  antisynergy:Bases
