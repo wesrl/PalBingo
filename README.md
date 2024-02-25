@@ -1,12 +1,12 @@
 # Palworld Bingo
 
-Site is WIP
-
-Heavily based on https://minecraftbingo.com / https://github.com/Joshimuz/mcbingo by Joshimuz and other contributors.
+https://www.palworldbingo.com
 
 ## Contributions
-
-TBD
+Wesrl
+Littlebear
+ProjketLily
+Heavily based on https://minecraftbingo.com / https://github.com/Joshimuz/mcbingo by Joshimuz their contributors.
 
 ## License
 
