@@ -96,12 +96,11 @@ var bingoList_Pal_v1 = [
 
 // Very Hard (4)
 [
-	{name: "WIP challenges"},
-	{name: "Cannot craft any Palshperes(even with Pals)", tooltiptext: "Coal, Diamond, Emerald, Gold, Iron, Lapis Lazuli, Nether Quatz and Redstone ores are your choices", tooltipimg: "Goal Tooltip Images/Ores.jpg"},
-	{name: "craft a rare or better outfit", tooltiptext: "Splash variants count! Even Lingering if you want to get crazy"},
+	{name: "Cannot craft any Palshperes(even with Pals)", tooltiptext: "There are other ways of getting them"},
+	{name: "Craft a rare or better outfit", tooltiptext: "This might not be very hard to some"},
 	{name: "Bingo Without base", antisynergy:"Bases"},
 	{name: "Kill Mamorest with only club ", tooltiptext: "Yes a club have fun"},
-	{name: "Reach Max Crime Status and spawn level 50 Guards before dying"},
+	{name: "Reach Max Crime Status and spawn level 50 Guards before dying", tooltiptext:""},
 	{name: "Only use Humans no Pals.", tooltiptext: "you can capture Pals but cannot use them in the party of base"},
 
 ]

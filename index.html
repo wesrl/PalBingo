@@ -81,8 +81,6 @@
 							<input class="seed-input" id="seed_for_copying_hidden" type="text" value="12345" readonly="readonly"><br>
 							<button class="button" title="Copy Seed to Clipboard" onclick='copySeedToClipboard("seed_for_copying_hidden", event);'>Copy Seed</button>
 						</div>
-						<h2>Warning there are not enough goals for Hard and Very Hard which causes those to include more easier goals.
-						   Since V1 is released I will leave the goals the same and fix this in Goal list V2</h2>
 						<p>Use this seed to remember what card you have. Remember to adjust ingame settings such as difficulty if necessary.</p>
 						<p>If you've been linked this page for a race, you are not allowed to change the seed/goals. See the full rules below.</p>
 						<button class="button show-table-button" onclick='toggleHidden();event.preventDefault();'>Show Table</button>
@@ -128,6 +126,8 @@
 		<div class="stream-exit-text"><a href="#" onclick='toggleStreamerMode();event.preventDefault();'>Exit Streamer Mode</a></div>
 		<div class="stream-exit-text"><a href="#" onclick='popoutBingoCard();event.preventDefault();'>Pop out Bingo Card</a></div>
 		<section id="rules-section">
+			<p>Warning there are not enough goals for Hard and Very Hard which causes those to include more easier goals.
+			   Since V1 is released I will leave the goals the same and fix this in Goal list V2</p>
 			<h2>Version</h2>
 			<p>This is made for the early access version of Palworld. In the future other newer versions may get added.</p>
 			<p>To ensure that each created Bingo sheet always stays the same (even if goals are added or modified in the future) a version identifier is encoded into the URL.</p>
