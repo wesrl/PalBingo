@@ -64,7 +64,7 @@ var bingoList_Pal_v1 = [
 	{name: "Craft uncommon armor/outfit"},
 	{name: "Rescue a Pal!",tooltiptext: "Save a Pal from a Outposts"},
 	{name: "Level (10-15)", antisynergy: "Level", infrequency: 4},
-	{name:"Find the location ine the photo", tooltiptext:"Find this location", tooltipimg: "Goal Tooltip Images/location2.jpg"},
+	{name:"Find the location in the photo", tooltiptext:"Find this location", tooltipimg: "Goal Tooltip Images/location2.jpg"},
 	{name: "(3-5) Different Edible Items",antisynergy: "Edible Items"},
 	
 ],
